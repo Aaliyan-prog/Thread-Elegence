@@ -51,7 +51,7 @@ const ShopCategory = ({ products, updateproductsData }) => {
             <li onClick={() => category("All")} className="lab-li">All</li>
             <li onClick={() => category("plain shirt")} className="lab-li">plain shirt</li>
             <li onClick={() => category("shirt")} className="lab-li">shirt</li>
-            <li onClick={() => category("pant")} className="lab-li">pant</li>
+            <li onClick={() => category("jean")} className="lab-li">Jeans</li>
           </ul>
         </div>
       </div>

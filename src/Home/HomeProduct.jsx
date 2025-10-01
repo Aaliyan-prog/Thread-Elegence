@@ -37,7 +37,7 @@ const HomeProduct = () => {
                 <li onClick={() => filterProductItems('All')}><Link>All</Link></li>
                 <li onClick={() => filterProductItems('shirt')}><Link>T-shirt</Link></li>
                 <li onClick={() => filterProductItems('plain shirt')}><Link>Plain shirt</Link></li>
-                <li onClick={() => filterProductItems('pant')}><Link>Pant</Link></li>
+                <li onClick={() => filterProductItems('jeans')}><Link>Jeans</Link></li>
               </ul>
             </div>
           </div>

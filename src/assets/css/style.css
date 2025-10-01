@@ -80,6 +80,7 @@
 
           .active{
             color: #ff6f61;
+            cursor: pointer;
           }
         }
       }
@@ -1048,6 +1049,7 @@
               margin-bottom: 10px;
               font-size: 16px;
               font-weight: bold;
+              cursor: pointer;
               transition: 0.5s;
             }
 
@@ -1072,7 +1074,7 @@
   .search-product{
     height: 100%;
     overflow-y: scroll;
-    background-color: #000;
+    background-color: #ff6f61;
 
     .lab-div{
       width: 100%;

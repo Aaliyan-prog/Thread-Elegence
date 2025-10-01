@@ -150,8 +150,8 @@ export const productData = [
   },
   {
     id: "PRT-1012",
-    name: "shorts pants",
-    category: "pant",
+    name: "shorts",
+    category: "jeans",
     brand: "adidas",
     price: 100,
     stock: 20,
